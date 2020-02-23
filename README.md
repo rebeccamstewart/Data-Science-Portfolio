@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-Twitter Binary Classification with MLs and NNs
+### Twitter Binary Classification with MLs and NNs
 
 The first project added to this portfolio concerns a binary classification problem, specifically, building ML and NN models that can predict the political affiliation (Democrat or Republican) of twitter users based on their tweets.
 
@@ -12,7 +12,7 @@ The motivation behind the creation of this independent project was to gain exper
 
 3.	Using the Twitter API, Tweepy, which can be used to pull tweets using various criteria.
 
-Political Tweets - Data (and Sentiment) Analysis
+### Political Tweets - Data (and Sentiment) Analysis
 
 The second project also uses the custom twitter objects to pull political tweets for the Gang of Eight (equal parts Democrat and Republican) so that we can assign sentiment to each and analyze the difference between groups of data.
 
@@ -25,3 +25,15 @@ The motivation behind the creation of this independent project was to gain exper
 3.	Explore and analyze the data using various types of visualizations, like word clouds and graphs.
 
 4.	Perform statistical test to see if the difference in sentiment between two groups (Democrat and Republican) are statistically significant
+
+### Fraud Detection Kaggle Competition 
+
+The third project is my first involvement in a Kaggle competition, but after the competition closed. My motivation for working on this Kaggle project included the following:
+
+Work on a large tabular dataset similar to the one used for a WIDS Kaggle competition that I was anticipating working on in January/February of 2020.
+
+Gain experience working with a large dataset, at least one that exceeds the size of the ones I was exposed to in an academic setting. As I anticipated, working with large number of features and rows proved challenging in the following areas:
+
+Figure out tricks that allow one to focus on important features.
+1.	Manage computer memory issues.
+2.	Employ techniques to test changes in the data for optimal model performance without running the entire dataset through a pipeline every single time.
