@@ -42,6 +42,6 @@ My motivation for working on this Kaggle project included the following:
 
 ### WiDS Datathon 2020 
 
-The forth project is a result of my first involvement in a live [Kaggle competition] (https://www.kaggle.com/c/widsdatathon2020/data).  After joining the local chapter of *Women in Data Science*, [data circles – formerly SeaWids]( https://datacircles.org/) and attending several meet-ups and lectures, I decided to participate in this datathon as part of a group. 
+The forth project is a result of my first involvement in a live [Kaggle competition](https://www.kaggle.com/c/widsdatathon2020/data).  After joining the local chapter of *Women in Data Science*, [data circles – formerly SeaWids]( https://datacircles.org/) and attending several meet-ups and lectures, I decided to participate in this datathon as part of a group. 
 
 Weekly meetings, along with both collaborative and independent work, led to the production of the Jupyter notebook posted here. This represents only one of the many models and kernels that led to several submissions to the WiDS datathon Kaggle competition. 
