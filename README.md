@@ -10,17 +10,17 @@ The motivation behind the creation of this independent project was to gain exper
 
 2.	Building models for text data when represented as sparse matrices or vectors. 
 
-3.	Using the Twitter API, Tweepy, which can be used to pull tweets using various criteria.
+3.	Using the Twitter API, [Tweepy](https://www.tweepy.org/), which can be used to pull tweets using various criteria.
 
 ### Political Tweets - Data (and Sentiment) Analysis
 
 The second project also uses the custom twitter objects to pull political tweets for the Gang of Eight (equal parts Democrat and Republican) so that we can assign sentiment to each and analyze the difference between groups of data.
 
-The motivation behind the creation of this independent project was to gain experience with three areas:
+The motivation behind the creation of this independent project was to gain experience with the following areas:
 
 1.	NLP techniques like Pre-Processing, Bag-of-words, etc.
 
-2.	Feature engineering, including Sentiment using VADER (Valence Aware Dictionary and sEntiment Reasoner).
+2.	Feature engineering, including Sentiment using [VADER](https://github.com/cjhutto/vaderSentiment) (Valence Aware Dictionary and sEntiment Reasoner).
 
 3.	Explore and analyze the data using various types of visualizations, like word clouds and graphs.
 
@@ -28,12 +28,20 @@ The motivation behind the creation of this independent project was to gain exper
 
 ### Fraud Detection Kaggle Competition 
 
-The third project is my first involvement in a Kaggle competition, but after the competition closed. My motivation for working on this Kaggle project included the following:
+The third project is my first involvement in a [Kaggle competition](https://www.kaggle.com/c/ieee-fraud-detection), but after the competition closed. 
 
-Work on a large tabular dataset similar to the one used for a WIDS Kaggle competition that I was anticipating working on in January/February of 2020.
+My motivation for working on this Kaggle project included the following:
 
-Gain experience working with a large dataset, at least one that exceeds the size of the ones I was exposed to in an academic setting. As I anticipated, working with large number of features and rows proved challenging in the following areas:
+* Work on a large tabular dataset similar to the one used for a WIDS Kaggle competition that I was anticipating working on in January/February of 2020.
 
-Figure out tricks that allow one to focus on important features.
-1.	Manage computer memory issues.
-2.	Employ techniques to test changes in the data for optimal model performance without running the entire dataset through a pipeline every single time.
+* Gain experience working with a large dataset, at least one that exceeds the size of the ones I was exposed to in an academic setting. As I anticipated, working with large number of features and rows proved challenging in the following areas:
+
+* Figure out tricks that allow one to focus on important features.
+  1.	Manage computer memory issues.
+  2.	Employ techniques to test changes in the data for optimal model performance without running the entire dataset through a pipeline every single time.
+
+### WiDS Datathon 2020 
+
+The forth project is a result of my first involvement in a live [Kaggle competition] (https://www.kaggle.com/c/widsdatathon2020/data).  After joining the local chapter of *Women in Data Science*, [data circles – formerly SeaWids]( https://datacircles.org/) and attending several meet-ups and lectures, I decided to participate in this datathon as part of a group. 
+
+Weekly meetings, along with both collaborative and independent work, led to the production of the Jupyter notebook posted here. This represents only one of the many models and kernels that led to several submissions to the WiDS datathon Kaggle competition. 
