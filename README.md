@@ -45,3 +45,13 @@ My motivation for working on this Kaggle project included the following:
 The forth project is a result of my first involvement in a live [Kaggle competition](https://www.kaggle.com/c/widsdatathon2020/data).  After joining the local chapter of *Women in Data Science*, [data circles – formerly SeaWids]( https://datacircles.org/) and attending several meet-ups and lectures, I decided to participate in this datathon as part of a group. 
 
 Weekly meetings, along with both collaborative and independent work, led to the production of the Jupyter notebook posted here. This represents only one of the many models and kernels that led to several submissions to the WiDS datathon Kaggle competition. 
+
+### Artificial Neural Network Implemented From Scratch
+
+The fifth project resulted from one of the more difficult assignments given to me near the end of my _Data Science Certificate Program_ at the *University of Washington*. We were given the code for a simple Perceptron Model and tasked with the challenge of converting it to a multi-layer Neural Network, configurable with the following parameters;
+1. Learning Rate
+2. Number of epochs
+3. Depth of architecture—number of hidden layers between the input and output layers
+4. Number of nodes in a hidden layer—width of the hidden layers  
+
+This classifier was tested using a Red/White Wine Dataset.
