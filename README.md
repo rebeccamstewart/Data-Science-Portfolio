@@ -48,7 +48,7 @@ Weekly meetings, along with both collaborative and independent work, led to the 
 
 ### Artificial Neural Network Implemented From Scratch
 
-The fifth project resulted from one of the more difficult assignments given to me near the end of my _Data Science Certificate Program_ at the *University of Washington*. We were given the code for a simple Perceptron Model and tasked with the challenge of converting it to a multi-layer Neural Network, configurable with the following parameters;
+The fifth project resulted from one of the more difficult assignments given to me near the end of my [Data Science Certificate Program](https://www.pce.uw.edu/certificates/data-science) at the *University of Washington*. We were given the code for a simple Perceptron Model and tasked with the challenge of converting it to a multi-layer Neural Network, configurable with the following parameters;
 1. Learning Rate
 2. Number of epochs
 3. Depth of architecture—number of hidden layers between the input and output layers
